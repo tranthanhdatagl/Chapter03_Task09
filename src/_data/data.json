@@ -1,0 +1,26 @@
+{
+  "linklists": {
+    "main": [
+      {
+        "title": "私たちについて",
+        "url": "/#c-about"
+      },
+      {
+        "title": "私たちの仕事",
+        "url": "/#c-work"
+      },
+      {
+        "title": "キャリアプラン",
+        "url": "/#c-career"
+      },
+      {
+        "title": "社員インタビュー",
+        "url": "/#c-interview"
+      },
+      {
+        "title": "会社情報",
+        "url": "/#c-company"
+      }
+    ]
+  }
+}
